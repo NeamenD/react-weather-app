@@ -41,6 +41,12 @@ const Forecast = ({ data }) => {
                       className="icon-small"
                       alt="weather"
                     />
+                    <div className="weather-info">
+                      <p className="day">{forecastDays[idx]}</p>
+                      <p className="description">
+                        {item.weather[0].description}
+                      </p>
+                    </div>
                   </div>
                 </AccordionItemButton>
               </AccordionItemHeading>
