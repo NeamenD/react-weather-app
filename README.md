@@ -3,6 +3,7 @@
 # Weather App
 
 A React-based weather application that allows users to search for a city and get current weather information along with a forecast. The app uses the OpenWeatherMap API for fetching weather data.
+Check out the live version of the project [here](https://react-weather-app-d8cv.onrender.com/).
 
 ## Table of Contents
 
